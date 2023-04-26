@@ -65,4 +65,4 @@ A, B, C = int(A), int(B), int(C)
 Equacao = A - B - C
 DiferencaCubo = Equacao ** 3
 
-print(f"O cubo da soma dos números é: {DiferencaCubo}")
+print(f'O cubo da soma dos números é: {DiferencaCubo}')
