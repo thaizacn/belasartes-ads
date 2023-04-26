@@ -29,4 +29,4 @@ O curso <a href="https://novo.belasartes.br/analise-e-desenvolvimento-de-sistema
 - LEVANTAMENTO E ANÁLISE DE REQUISITOS <br>
 - PADRÕES DE DESIGN <br>
 - <a href = "PROGRAMACAO ORIENTADA A OBJETOS"> PROGRAMAÇÃO ORIENTADA A OBJETOS </a> <br>
-- <a href="https://github.com/thaizacn/TrocAi_APIs"> PROJETO INTEGRADOR MULTIDISCIPLINAR E EXTENSIONISTA II – DESIGN DE SOFTWARES E SISTEMAS	<br>
+- <a href="https://github.com/thaizacn/TrocAi_APIs">PROJETO INTEGRADOR MULTIDISCIPLINAR E EXTENSIONISTA II – DESIGN DE SOFTWARES E SISTEMAS	<br>
