@@ -27,6 +27,6 @@ O curso <a href="https://novo.belasartes.br/analise-e-desenvolvimento-de-sistema
 - <a href = "ESTRUTURA DE DADOS LINEARES"> ESTRUTURA DE DADOS LINEARES </a> <br>
 - <a href = "ESTRUTURA DE DADOS NAO LINEARES"> ESTRUTURA DE DADOS NÃO LINEARES </a> <br>
 - LEVANTAMENTO E ANÁLISE DE REQUISITOS <br>
-- PADRÕES DE DESIGN <br>
+- <a href = "PADROES DE DESIGN"> PADRÕES DE DESIGN </a> <br>
 - <a href = "PROGRAMACAO ORIENTADA A OBJETOS"> PROGRAMAÇÃO ORIENTADA A OBJETOS </a> <br>
 - <a href="https://github.com/thaizacn/TrocAi_APIs">PROJETO INTEGRADOR MULTIDISCIPLINAR E EXTENSIONISTA II – DESIGN DE SOFTWARES E SISTEMAS	<br>
