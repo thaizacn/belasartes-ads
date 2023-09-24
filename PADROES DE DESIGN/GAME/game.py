@@ -35,7 +35,7 @@ class Game:
             else: 
                 print("Player 2 wins!")
 
-player1 = Game(Papel())
-player2 = Game(Random())
+player1 = Game(Tesoura())
+player2 = Game(Papel())
 
 player1.play(player2)
