@@ -53,5 +53,5 @@ O curso <a href="https://novo.belasartes.br/analise-e-desenvolvimento-de-sistema
 - IMPLANTAÇÃO DE GERENCIAMENTO DE PROJETOS <br>
 - IMPLANTAÇÃO DE PROCESSOS DE DESIGN ÁGIL <br>
 - PROCESSOS DE DESENVOLVIMENTO ÁGIL DE SOFTWARE <br>
-- PROCESSOS DE DESIGN ÁGIL DE SOFTWARE <br>
+- <a href="https://github.com/thaizacn/GameOfBalls_POO"> PROCESSOS DE DESIGN ÁGIL DE SOFTWARE <br>
 - <a href="https://github.com/detoti/automatic-octo-broccoli">PROJETO INTEGRADOR MULTIDISCIPLINAR E EXTENSIONISTA IV – DESIGN E DESENVOLVIMENTO ÁGIL	<br>
